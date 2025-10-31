@@ -90,7 +90,7 @@ body {
             border: 5px solid white;
             position: relative;
             overflow: hidden;
-            background-image: url("assets/perfil.jpeg"); /* Corrigido: removido '/' inicial */
+            background-image: url("/assets/perfil.png");
             background-size: cover;
             background-position: center;
         }
